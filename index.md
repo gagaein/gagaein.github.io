@@ -1,8 +1,9 @@
-## Welcome Tianfan Xu's GitHub Page
+## Welcome Tianfan Xu's Personal Page :)
 
-# Education
-Beihang University, bachelor
+# Biography
+I am a bachelor major in CS in Beihang University.
+Currently, I am serving as intern in SenseTime Beijing. 
+My research interest focused in deep learning, especially automatic document understanding.
 
-
-
+# 
 
